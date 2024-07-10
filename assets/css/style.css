@@ -1,0 +1,15 @@
+.movies #expolore-btn {
+    width: 150px;
+}
+
+#movies .card {
+    height: 320px !important;
+}
+
+.movies input {
+    width: 100px !important;
+}
+
+header form {
+    display: none !important;
+}
